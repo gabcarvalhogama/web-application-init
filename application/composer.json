@@ -1,0 +1,12 @@
+{
+    "name": "gabcarvalhogama/web-app",
+    "authors": [
+        {
+            "name": "Gabriel Carvalho Gama",
+            "email": "eu@gabcarvalhogama.com.br"
+        }
+    ],
+    "require": {
+    	"bramus/router": "~1.4"
+    }
+}
